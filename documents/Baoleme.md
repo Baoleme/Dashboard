@@ -68,21 +68,25 @@
 
    ![客如云系统](https://github.com/Baoleme/Dashboard/tree/master/img/客如云系统.png)
 
-2. “掌里通智慧城市”：
+2. “旗鱼点餐”：
 
-   ![Snipaste_2018-03-25_15-14-52](C:\Users\Crystal\Desktop\Snipaste_2018-03-25_15-14-52.png)
+   ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/旗鱼点餐.png)
+   
+   ​
+   
+   ![解决方案](https://github.com/Baoleme/Dashboard/tree/master/img/解决方案.png)
 
 3. “召呼智慧餐厅联盟”系统：
 
-   ![Snipaste_2018-03-25_15-15-18](C:\Users\Crystal\Desktop\Snipaste_2018-03-25_15-15-18.png)
+   ![召呼系统]( ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/召呼系统.png))
 
    ​
 
-   ![aaaa](C:\Users\Crystal\Pictures\aaaa.png)
+   ![会员界面1]( ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面1.png))
 
    ​
 
-   ![aa](C:\Users\Crystal\Desktop\aa.png)
+   ![会员界面2]( ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面2.png))
 
 
 
