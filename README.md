@@ -1,18 +1,10 @@
 # Dashboard
-Records of Baoleme development progress.
 
-# Team Division
-* PM: ZL
-* Dev:
-* QA:
+1. [About（项目规划）](https://github.com/Baoleme/Dashboard/blob/master/documents/about.md)
+2. [Team profile（团队组建）](https://github.com/Baoleme/Dashboard/blob/master/documents/team_profile.md)
+3. Investigation（项目前期调研）
+4. [Vision（项目愿景）](https://github.com/Baoleme/Dashboard/blob/master/documents/Baoleme.md)
+5. Product Backlog （产品特性）
+6. meet_recording
 
-# Iterations
-## Inception
-**week 1(3/25/2018)**
-
-Kickoff meeting in Thursday 
-
-Artifacts:
-* 项目策划书初版：从高层面说明愿景、商业模式、项目可行性
-* 初步的用例模型：文档+用例图（UML）+流程图
-* 下阶段开发计划
+- [inception meeting (3/25/2018)](https://github.com/Baoleme/Dashboard/blob/master/documents/KickOff_Meeting_Record.md)
