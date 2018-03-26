@@ -66,7 +66,7 @@
 
 1. “客如云”系统：
 
-   ![Snipaste_2018-03-25_15-13-27](C:\Users\Crystal\Desktop\Snipaste_2018-03-25_15-13-27.png)
+   ![客如云系统](Dashboard/img/客如云系统.png)
 
 2. “掌里通智慧城市”：
 
