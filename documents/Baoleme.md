@@ -74,7 +74,7 @@
 
 3. “召呼智慧餐厅联盟”系统：
 
-   ![召呼系统]( ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/召呼系统.png))  ![会员界面1]( ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面1.png))  ![会员界面2]( ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面2.png))
+   ![召呼系统](https://github.com/Baoleme/Dashboard/tree/master/img/召呼系统.png)  ![会员界面1](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面1.png)  ![会员界面2](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面2.png)
 
 
 
