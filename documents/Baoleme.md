@@ -66,7 +66,7 @@
 
 1. “客如云”系统：
 
-   ![客如云系统](Dashboard/img/客如云系统.png)
+   ![客如云系统](https://github.com/Baoleme/Dashboard/tree/master/img/客如云系统.png)
 
 2. “掌里通智慧城市”：
 
