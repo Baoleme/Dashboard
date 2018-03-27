@@ -39,8 +39,8 @@
 
 5. 初步搜集和讨论了需求：
 
-![扫码点餐支付系统](https://github.com/Baoleme/Dashboard/blob/master/img/扫码点餐支付系统.png) 
-![菜单信息](https://github.com/Baoleme/Dashboard/blob/master/img/菜单信息.png)
+![扫码点餐支付系统](../img/扫码点餐支付系统.png) 
+![菜单信息](../img/菜单信息.png)
 
 6.其他约定：
 

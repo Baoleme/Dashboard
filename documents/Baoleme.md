@@ -66,15 +66,15 @@
 
 1. “客如云”系统：
 
-   ![客如云系统](https://github.com/Baoleme/Dashboard/tree/master/img/客如云系统.png)
+   ![客如云系统](../img/客如云系统.png)
 
 2. “旗鱼点餐”：
 
-   ![旗鱼点餐系统](https://github.com/Baoleme/Dashboard/tree/master/img/旗鱼点餐.png)  ![解决方案](https://github.com/Baoleme/Dashboard/tree/master/img/解决方案.png)
+   ![旗鱼点餐系统](../img/旗鱼点餐.png)  ![解决方案](../img/解决方案.png)
 
 3. “召呼智慧餐厅联盟”系统：
 
-   ![召呼系统](https://github.com/Baoleme/Dashboard/tree/master/img/召呼系统.png)  ![会员界面1](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面1.png)  ![会员界面2](https://github.com/Baoleme/Dashboard/tree/master/img/会员界面2.png)
+   ![召呼系统](../img/召呼系统.png)  ![会员界面1](../img/会员界面1.png)  ![会员界面2](../img/会员界面2.png)
 
 
 
