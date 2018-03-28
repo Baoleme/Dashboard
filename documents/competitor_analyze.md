@@ -12,10 +12,10 @@
 *按在搜索结果中出现的频率，从高到低排列：*
 <a href="https://github.com/Baoleme/Dashboard/tree/master/documents/xlsx" target="_blank">表格链接</a>
 
-![competitor1](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/competitor1.jpg)
-![competitor2](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/competitor2.jpg)
-![competitor3](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/competitor3.jpg)
-![competitor4](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/competitor4.jpg)
+![competitor1](../img_competitors/competitor1.jpg)
+![competitor2](../img_competitors/competitor2.jpg)
+![competitor3](../img_competitors/competitor3.jpg)
+![competitor4](../img_competitors/competitor4.jpg)
 
 
 ## 交互设计与技术分析
@@ -23,7 +23,7 @@
 
 1. 功能框架
 
-![偶滴菜](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/偶滴菜扫码后.png)
+![偶滴菜](../img_competitors/偶滴菜扫码后.png)
 
 	分析：
 	* 堂食/外卖/打包使用场景不明，混杂在最后才做区分导致结算页面臃肿
@@ -31,13 +31,13 @@
 	* 后付款模式没保障
 	* 选择就餐人数功能鸡肋，就餐人数只有在预定座位时才有必要选择
 
-![CoCo奶茶](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/CoCo.png)
+![CoCo奶茶](../img_competitors/CoCo.png)
 
 	分析：
 	*可以看出使用场景就是到店取餐，分预订和即时两种，没有外卖，因此功能设计算是清晰合理，没有多余的界面和操作环节
 	* 连锁店模式因此二维码与门店绑定，不提供独立餐桌
 
-![美味e点](https://github.com/Baoleme/Dashboard/tree/master/img_competitors/美味e点扫码后.png)
+![美味e点](../img_competitors/美味e点扫码后.png)
 
 	分析：
 	* 订单状态和订单详情部分信息显示有点混乱
@@ -100,26 +100,58 @@
 
 图1：
 
+![客如云](../img_competitors/客如云.png)
+
 图2：
-    
+
+![美味不用等1](../img_competitors/美味不用等1.jpg)
+
+![美味不用等2](../img_competitors/美味不用等2.jpg)
+
 图3：
 
+![偶滴菜](../img_competitors/偶滴菜.png)
 
 偶滴菜页面截图：
-（选择就餐人数-》）扫码进入首页-》餐品页-》菜品详情
-  
--》选餐下单-》订单支付
-  
+（选择就餐人数） -> 扫码进入首页 -> 餐品页 -> 菜品详情
+
+![首页](../img_competitors/偶滴菜首页.jpg)
+
+![餐品](../img_competitors/偶滴菜餐品.jpg)
+
+![餐品详情](../img_competitors/偶滴菜餐品详情.jpg)
+
+-> 选餐下单 -> 订单支付
+
+![选规格](../img_competitors/偶滴菜选规格.jpg)
+
+![购物车](../img_competitors/偶滴菜购物车.jpg)
+
+![订单](../img_competitors/偶滴菜订单.jpg)
 
 CoCo页面截图：
-（主界面-》定位店铺-》）餐品页
-  
-下单支付
+  主界面 -> 定位店铺 -> 餐品页
 
+![首页](../img_competitors/CoCo首页.jpg)
 
+   
+
+​    
+
+![规格](../img_competitors/CoCo选规格.jpg)
+
+ 下单支付
+
+![订单](../img_competitors/CoCo订单.jpg)
 
 
 
 美味e点页面截图：
-餐品页-》下单-》支付
-  
+餐品页 -> 下单 -> 支付
+
+![首页](../img_competitors/美味e点首页.jpg)
+
+![购物车](../img_competitors/美味e点购物车.jpg)
+
+![订单](../img_competitors/美味e点订单.jpg)
+
