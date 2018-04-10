@@ -6,5 +6,5 @@
 4. [Vision（项目愿景）](https://github.com/Baoleme/Dashboard/blob/master/documents/Baoleme_Project_Proposal.md)
 5. [Product Backlog（产品特性）](https://github.com/Baoleme/Dashboard/blob/master/documents/product_backlog.md)
 6. Meet Records
-  - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record.md)
-  - [iteration1 meeting（3/29/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration1.md)
+    - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record.md)
+    - [iteration1 meeting（3/29/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration1.md)
