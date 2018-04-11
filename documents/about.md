@@ -29,7 +29,7 @@ Baoleme是一个扫码点餐结算系统，我们本着让餐饮企业与顾客�
 
 ### Inception
 
-**week 1(3/25/2018)**
+**week 1(3/22/2018)**
 
 Kickoff meeting in Thursday 
 
@@ -41,3 +41,21 @@ Artifacts:
 - 前端技术调研及选型
 - 后端选型
 - 下阶段开发计划
+
+### Iteration 1
+
+**week2（3/29/2018）**
+
+iteration1 meeting in Thursday
+
+Artifacts:
+
+- 规范了版本控制
+- 明确了支付形式
+- Backlog
+- 明确产品定位
+- 初步完成登录注册功能
+  - 后端数据库的设计、API的设计
+  - 小程序端的客户登录
+  - PC端的商家注册以及登录
+- （其他成果待补充）
