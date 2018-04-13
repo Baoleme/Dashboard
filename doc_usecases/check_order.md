@@ -1,4 +1,4 @@
-![](../img_usecases/check_order_usecase_img.png)
+![](../img_usecases/check_order.png)
 
 |     用例名称     | 查看订单                                     |
 | :----------: | :--------------------------------------- |
