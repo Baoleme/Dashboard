@@ -6,7 +6,7 @@
 
 **用例图：**
 
-![菜品用例图](../img_usecases/manage_dishes.png)
+![菜品用例图](../img_usecases/manage_dishes .png)
 
 
 **用例名称：** 管理餐厅菜品
