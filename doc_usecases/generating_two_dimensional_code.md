@@ -1,3 +1,4 @@
+![](../img_usecases/generating_two_dimensional_code_usecase_img.png)
 |     用例名称     | 生成每桌二维码                                  |
 | :----------: | :--------------------------------------- |
 |      范围      | web应用                                    |
