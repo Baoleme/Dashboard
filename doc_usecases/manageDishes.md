@@ -6,12 +6,7 @@
 
 用例图：
 
-![菜品用例图](../img/manageDishes_ucd.png)
-
-流程图：
-
-![菜品流程图](../img/manageDishes_fc.jpg)
-
+![菜品用例图](../img_usecases/manage_dishes.png)
 
 
 **用例名称：** 管理餐厅菜品
@@ -92,3 +87,7 @@
 
 - 是否增加搜索菜品的功能
 
+
+流程图：
+
+![菜品流程图](../image/manageDishes_fc.jpg)

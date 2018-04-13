@@ -1,12 +1,12 @@
 **用例图**
-![](../img/use_case_img3.0.png)
+![](../img_usecases/use_case_img3.0.png)
 
 **流程图**
  - 顾客使用流程图
-    ![](../img/流程图-顾客.png)
+    ![](../image/流程图-顾客.png)
 
  - 商家使用流程图
-    ![](../img/流程图-商家.png)
+    ![](../image/流程图-商家.png)
 
 **基本用例：**
 

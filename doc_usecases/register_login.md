@@ -1,6 +1,6 @@
 ##### 流程图：
 
-![注册登录流程图](../img/register_login.jpg)
+![注册登录流程图](../image/register_login.jpg)
 
 ##### 基本用例：
 
