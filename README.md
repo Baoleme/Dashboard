@@ -14,10 +14,10 @@
 8. 生产规范与指南
   - [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 9. Meet Records
-    - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record (3/22/2018).md)
+    - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3/22/2018).md)
     - [iteration1 meeting（3/29/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration1(3/29/2018).md)
     - [initial design meeting（4/10/2018-4/11/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_initial_design(4/10/2018-4/11/2018).md)
 10. Tech/Work Report
-    1. [15331365-Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
-    2. [15331169-用例建模小结](https://humanlee1011.github.io/2018/04/14/usecase/#)
-    3. [15331274-在Vue项目中使用Vuex](https://blog.csdn.net/shujh_sysu/article/details/79947418)
+    - [15331365-Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
+    - [15331169-用例建模小结](https://humanlee1011.github.io/2018/04/14/usecase/#)
+    - [15331274-在Vue项目中使用Vuex](https://blog.csdn.net/shujh_sysu/article/details/79947418)
