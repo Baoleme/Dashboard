@@ -23,3 +23,4 @@ X2. Tech/Work Report
   - [15331365 - Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
   - [15331169 - 用例建模小结](https://humanlee1011.github.io/2018/04/14/usecase/#)
   - [15331274 - 在Vue项目中使用Vuex](https://blog.csdn.net/shujh_sysu/article/details/79947418)
+  - [15331446 - 小程序原型搭建](https://blog.csdn.net/crystal_zhuyupei/article/details/79948647)
