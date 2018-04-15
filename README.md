@@ -10,7 +10,7 @@
 	- 6.2 [Use case](https://github.com/Baoleme/Dashboard/blob/master/doc_usecases)
 7. Design(设计)
 	- 7.1 UI design
-		- PC端登录注册流程UI设计(https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
+		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
 8. 生产规范与指南
 	- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 
