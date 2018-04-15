@@ -9,8 +9,8 @@
 	- 6.1 [Usecase Diagram](https://github.com/Baoleme/Dashboard/blob/master/img_usecases)
 	- 6.2 [Use case](https://github.com/Baoleme/Dashboard/blob/master/doc_usecases)
 7. Design(设计)
-	- 7.1 [UI design]
-		- XX用例UI设计
+	- 7.1 UI design
+		- PC端登录注册流程UI设计(https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
 8. 生产规范与指南
 	- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 
@@ -23,3 +23,4 @@ X2. Tech/Work Report
   - [15331365 - Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
   - [15331169 - 用例建模小结](https://humanlee1011.github.io/2018/04/14/usecase/#)
   - [15331274 - 在Vue项目中使用Vuex](https://blog.csdn.net/shujh_sysu/article/details/79947418)
+  - [15331432 - 初为产品经理的心理障碍](https://mp.csdn.net/mdeditor/79934411)
