@@ -1,5 +1,5 @@
 **用例图**
-![](../img_usecases/use_case_img3.0.png)
+![](../img_usecases/total.png)
 
 **流程图**
  - 顾客使用流程图

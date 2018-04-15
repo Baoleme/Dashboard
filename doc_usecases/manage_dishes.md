@@ -4,9 +4,17 @@
 | ---- | ---------- | ------------- | ------ |
 | 1.0  | 2018.04.11 | 管理菜品_初版 | 朱育佩 |
 
-用例图：
+**用例图：**
 
 ![菜品用例图](../img_usecases/manage_dishes.png)
+
+![菜品用例图](../img_usecases/manage_the_category_of_dishes.png)
+
+![菜品用例图](../img_usecases/adding_dishes.png)
+
+![菜品用例图](../img_usecases/modifying_dishes.png)
+
+![菜品用例图](../img_usecases/deleting_dishes.png)
 
 
 **用例名称：** 管理餐厅菜品
