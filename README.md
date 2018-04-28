@@ -12,7 +12,8 @@
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
 8. 生产规范与指南
-	- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
+  - [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
+  - [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
