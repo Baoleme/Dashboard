@@ -42,7 +42,7 @@ Baoleme是一个扫码点餐结算系统，我们本着让餐饮企业与顾客�
 
 ​核心业务流程是：顾客就座后扫描餐桌的二维码，查看电子菜单，自助点餐，下单后直接微信支付或其他方式支付，后厨分单制作，服务员送餐至对应桌位，至此顾客完成整个用餐前流程。项目重点在于实现该流程的线上化，提供便捷可靠的服务。
 
-[具体的业务用例与流程分析](https://github.com/Baoleme/Dashboard/blob/master/documents/use_case.md)
+[具体的业务用例与流程分析](https://github.com/Baoleme/Dashboard/blob/master/doc_usecases/use_case.md)
 
 ##### （二）项目总体目标
 
