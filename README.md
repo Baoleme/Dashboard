@@ -6,8 +6,9 @@
 4. [Vision（项目愿景）](https://github.com/Baoleme/Dashboard/blob/master/documents/Baoleme_Project_Proposal.md)
 5. [Product Backlog（产品特性）](https://github.com/Baoleme/Dashboard/blob/master/documents/product_backlog.md)
 6. Requirement specification(需求规格说明书)
-	- 6.1 [Usecase Diagram](https://github.com/Baoleme/Dashboard/blob/master/img_usecases)
-	- 6.2 [Use case](https://github.com/Baoleme/Dashboard/blob/master/doc_usecases)
+	- 6.1 [Usecase Diagram（用例图）](https://github.com/Baoleme/Dashboard/blob/master/img_usecases)
+	- 6.2 [Use case（用例）](https://github.com/Baoleme/Dashboard/blob/master/doc_usecases)
+	- 6.3 [领域模型](https://github.com/Baoleme/Dashboard/blob/master/image/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
 7. Design(设计)
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
