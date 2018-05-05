@@ -8,15 +8,22 @@
 6. Requirement specification(需求规格说明书)
 	- 6.1 [Usecase Diagram（用例图）](https://github.com/Baoleme/Dashboard/blob/master/img_usecases)
 	- 6.2 [Use Cases（用例+活动图）](https://github.com/Baoleme/Dashboard/blob/master/doc_usecases)
-	- 6.3 [Domian Model（领域模型）](https://github.com/Baoleme/Dashboard/blob/master/image/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
+	- 6.3 [Domain Model（领域模型）](https://github.com/Baoleme/Dashboard/blob/master/image/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
 	- 6.4 State Model（状态模型）
 7. Design(设计)
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
+  - 7.2 Database design 
+    - 7.2.1 用户及权限系统数据库设计
+    - 7.2.2 XX子系统数据课设计
+    - 7.2.x 第三方数据评审结果
+  - 7.3 API 设计
 8. 生产规范与指南
-  - [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
-  - [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
-
+  - 8.1 代码规范
+    - [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
+    - [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
+  - 8.2 REST API 设计规范
+  
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
   - [iteration1 meeting（3/29/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration1(3-29-2018).md)
