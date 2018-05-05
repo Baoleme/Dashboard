@@ -12,12 +12,12 @@
 	- 6.4 State Model（状态模型）
 7. Design(设计)
 	- 7.1 UI design
-		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/img_UI/login&register/login&register.md)
-  - 7.2 Database design 
-    - 7.2.1 用户及权限系统数据库设计
-    - 7.2.2 XX子系统数据课设计
-    - 7.2.x 第三方数据评审结果
-  - 7.3 API 设计
+		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/UI/login&register/login&register.md)
+	- 7.2 Database design 
+		- 7.2.1 用户及权限系统数据库设计
+		- 7.2.2 XX子系统数据课设计
+		- 7.2.x 第三方数据评审结果
+	- 7.3 API 设计
 8. 生产规范与指南
   - 8.1 代码规范
     - [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)

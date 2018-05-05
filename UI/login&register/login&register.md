@@ -1,10 +1,13 @@
-![Alt text](baoleme_logo_cat.svg)
+<div align=center>
 <img src="baoleme_logo_cat.svg">
+</div>
 
+---
 视觉标注
 ![视觉标注](视觉标注.png)
 
 [配色方案](配色方案.pdf)
+---
 
 饱了么注册流程
 ![饱了么注册流程](饱了么注册流程.png)
