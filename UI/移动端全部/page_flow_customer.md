@@ -1,6 +1,6 @@
 # 客户端页面流与数据约定
 
-![客户端页面流](https://github.com/Baoleme/Dashboard/tree/master/image/客户端页面流.png)
+![客户端页面流](../../image/客户端页面流.png)
 
 ## 1.选餐界面
 包含：分类列表、菜品列表、店铺信息、购物篮、计价、
