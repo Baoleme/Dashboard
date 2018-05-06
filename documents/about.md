@@ -67,3 +67,15 @@ Artifacts:
 - artifacts as homework lessonX
 
 ![tower](../image/tower.jpg)
+
+### Iteration 3
+
+**week9-week10（before 5/13/2018）**
+
+sprint meeting in 2018/4/28
+
+Artifacts:
+
+- 第二轮开发Backlog
+- 所有UI设计
+- 完成backlog确定的四个功能点
