@@ -13,6 +13,7 @@
 7. Design(设计)
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/UI/login&register/login&register.md)
+		- [小程序移动端全部UI](https://github.com/Baoleme/Dashboard/blob/master/UI/移动端全部)
 	- 7.2 Database design 
 		- 7.2.1 用户及权限系统数据库设计
 		- 7.2.2 XX子系统数据课设计
