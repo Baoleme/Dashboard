@@ -14,16 +14,16 @@
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/UI/login&register/login&register.md)
 		- [小程序移动端全部UI](https://github.com/Baoleme/Dashboard/blob/master/UI/移动端全部)
-	- 7.2 Database design 
+	- 7.2 Database design
 		- 7.2.1 用户及权限系统数据库设计
-		- 7.2.2 XX子系统数据课设计
-		- 7.2.x 第三方数据评审结果
-	- 7.3 API 设计
+		- 7.2.2 [扫码点餐系统数据库设计](https://github.com/Baoleme/Dashboard/blob/master/ER/ER.png)
+		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues)
+	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 8. 生产规范与指南
-  - 8.1 代码规范
-    - [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
-    - [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
-  - 8.2 REST API 设计规范
+	- 8.1 代码规范
+		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
+		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
+	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
   
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
