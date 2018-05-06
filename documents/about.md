@@ -59,3 +59,11 @@ Artifacts:
   - 小程序端的客户登录
   - PC端的商家注册以及登录
 - （其他成果待补充）
+
+### Iteration 2
+
+- mainly elaboration and design
+- detail in tower
+- artifacts as homework lessonX
+
+![tower](../image/tower.jpg)
