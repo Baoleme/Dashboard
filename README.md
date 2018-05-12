@@ -40,3 +40,8 @@ X2. Tech/Work Report
   - [15331436 - axios入坑指北](https://blog.zyuco.com/2018/04/08/axios%E5%85%A5%E5%9D%91%E6%8C%87%E5%8C%97/)
   - [15331435 - 使用Travis进行持续集成（js）](https://blog.andiedie.cn/2018/04/04/%E4%BD%BF%E7%94%A8Travis%E8%BF%9B%E8%A1%8C%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
   - [15331432 - 初为产品经理的心理障碍](https://blog.csdn.net/qq_33559972/article/details/79934411)
+
+XX. 建模练习
+  - XX.1 [奇妙清单业务文档](https://github.com/Baoleme/Dashboard/blob/master/ModelingExercise/业务文档.md)
+  - XX.2 [建模要求](https://github.com/Baoleme/Dashboard/blob/master/ModelingExercise/README.md#建模要求)
+  - XX.3 [建模者答案与评价](https://github.com/Baoleme/Dashboard/blob/master/ModelingExercise/README.md#建模者答案与评价)
