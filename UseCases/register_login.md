@@ -4,7 +4,7 @@
 
 **用例图：**
 
-![注册登录用例图](../img_usecases/register_login.png)
+![注册登录用例图](img_use_case/register_login.png)
 
 ##### 基本用例：
 
@@ -64,8 +64,4 @@
 
 ##### 流程图：
 
-![注册登录流程图](../image/register_login_fc.jpg)
-
-
-
-​	
+![注册登录流程图](img_activity/register_login_fc.jpg)
