@@ -1,4 +1,4 @@
-# Dashboard
+# Baoleme Dashboard
 
 1. [About（项目规划）](https://github.com/Baoleme/Dashboard/blob/master/documents/about.md)
 2. [Team profile（团队组建）](https://github.com/Baoleme/Dashboard/blob/master/documents/team_profile.md)
