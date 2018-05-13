@@ -40,3 +40,7 @@
 - 【领域模型】：如果一个用户有0-n个清单夹，不需要另外再表明用户有0-n个清单
 - 【状态模型】：状态模型多个状态是重复的，应该合并到同一个框内
 - 【系统顺序图】：没什么大问题
+
+5. https://blog.csdn.net/xiasilo/article/details/80286566
+
+6. https://blog.csdn.net/Liluyuan5323/article/details/80290174
