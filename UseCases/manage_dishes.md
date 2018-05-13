@@ -6,15 +6,15 @@
 
 **用例图：**
 
-![菜品用例图](../img_usecases/manage_dishes.png)
+![菜品用例图](img_use_case/manage_dishes.png)
 
-![菜品用例图](../img_usecases/manage_the_category_of_dishes.png)
+![菜品用例图](img_use_case/manage_the_category_of_dishes.png)
 
-![菜品用例图](../img_usecases/adding_dishes.png)
+![菜品用例图](img_use_case/adding_dishes.png)
 
-![菜品用例图](../img_usecases/modifying_dishes.png)
+![菜品用例图](img_use_case/modifying_dishes.png)
 
-![菜品用例图](../img_usecases/deleting_dishes.png)
+![菜品用例图](img_use_case/deleting_dishes.png)
 
 
 **用例名称：** 管理餐厅菜品
@@ -98,4 +98,4 @@
 
 流程图：
 
-![菜品流程图](../image/manageDishes_fc.jpg)
+![菜品流程图](img_activity/manageDishes_fc.jpg)

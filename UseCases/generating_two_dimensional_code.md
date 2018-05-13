@@ -1,4 +1,4 @@
-![](../img_usecases/generate_two_dimensional_code.png)
+![](img_use_case/generate_two_dimensional_code.png)
 
 |     用例名称     | 生成每桌二维码                                  |
 | :----------: | :--------------------------------------- |

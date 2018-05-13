@@ -3,7 +3,7 @@
 |1.0|李晓芸|处理订单|
 
 **用例图**
-![餐厅管理员用例图](../img_usecases/manage_orders.PNG)
+![餐厅管理员用例图](img_use_case/manage_orders.PNG)
 
 **用例名称：**
 

@@ -4,7 +4,7 @@
 | 1.0 | 2018.4.3 | 详述版用例_初 | 周林 |
 
 **用例图：**
-![下单用例图](../img_usecases/make_order.png)
+![下单用例图](img_use_case/make_order.png)
 
 **范围：** 客户端
 
