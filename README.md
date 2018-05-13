@@ -24,6 +24,7 @@
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
+		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
 	- 8.2 [REST API 设计规范](API-document/)
 
 X1. Meet Records
