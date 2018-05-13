@@ -12,7 +12,7 @@
 	- 6.4 [State Model（状态模型）](https://github.com/Baoleme/Dashboard/tree/master/image/订单状态图.png)
 7. Design(设计)
 	- 7.1 UI design
-		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/UI/login&register/login&register.md)
+		- [PC端登录注册流程UI设计](https://github.com/Baoleme/Dashboard/blob/master/UI/login&register)
 		- [小程序移动端全部UI](https://github.com/Baoleme/Dashboard/blob/master/UI/移动端全部)
 	- 7.2 Database design
 		- 7.2.1 [用户及权限系统数据库设计](https://github.com/Baoleme/Dashboard/tree/master/ER)
