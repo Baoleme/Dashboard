@@ -1,4 +1,4 @@
-# Baoleme Dashboard
+# Dashboard
 
 1. [About（项目规划）](https://github.com/Baoleme/Dashboard/blob/master/documents/about.md)
 2. [Team profile（团队组建）](https://github.com/Baoleme/Dashboard/blob/master/documents/team_profile.md)
@@ -25,7 +25,7 @@
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
-  
+
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
   - [iteration1 meeting（3/29/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration1(3-29-2018).md)
