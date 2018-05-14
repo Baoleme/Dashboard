@@ -46,3 +46,7 @@
 6.[https://blog.csdn.net/xiasilo/article/details/80286566](https://blog.csdn.net/xiasilo/article/details/80286566)
 
 7.[https://blog.csdn.net/Liluyuan5323/article/details/80290174](https://blog.csdn.net/Liluyuan5323/article/details/80290174)
+
+8.[https://sasakiyori.github.io/2018/05/13/SAD-hw7.html](https://sasakiyori.github.io/2018/05/13/SAD-hw7.html)
+
+9.[https://www.zybuluo.com/zichuanyan/note/1146003](https://www.zybuluo.com/zichuanyan/note/1146003)
