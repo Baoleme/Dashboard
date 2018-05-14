@@ -50,3 +50,9 @@
 8.[https://sasakiyori.github.io/2018/05/13/SAD-hw7.html](https://sasakiyori.github.io/2018/05/13/SAD-hw7.html)
 
 9.[https://www.zybuluo.com/zichuanyan/note/1146003](https://www.zybuluo.com/zichuanyan/note/1146003)
+
+10.[https://blog.csdn.net/weixin_38057349/article/details/80298888](https://blog.csdn.net/weixin_38057349/article/details/80298888)
+
+11.[https://blog.csdn.net/S_Mars/article/details/80303560](https://blog.csdn.net/S_Mars/article/details/80303560)
+
+12.[https://shimo.im/docs/tGPIBdZBztcDKTOZ](https://shimo.im/docs/tGPIBdZBztcDKTOZ)
