@@ -19,13 +19,13 @@
 		- 7.2.1 [用户及权限系统数据库设计](ER)
 		- 7.2.2 [扫码点餐系统数据库设计](ER/ER.png)
 		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues)
-	- 7.3 [API 设计](API-document/)
+	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
 		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
-	- 8.2 [REST API 设计规范](API-document/)
+	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](meet_records/KickOff_Meeting_Record(3-22-2018).md)
