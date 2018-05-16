@@ -15,6 +15,7 @@
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](UI/login&register)
 		- [小程序移动端全部UI](UI/移动端全部)
+		- [PC端剩余全部UI](UI/PC端除登录注册)
 	- 7.2 Database design
 		- 7.2.1 [用户及权限系统数据库设计](ER)
 		- 7.2.2 [扫码点餐系统数据库设计](ER/ER.png)
