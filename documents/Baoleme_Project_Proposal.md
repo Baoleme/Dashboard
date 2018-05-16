@@ -1,4 +1,8 @@
+<div align=center>
+<img src="../UI/login&register/baoleme_logo_cat.svg">
+
 ## Baoleme项目策划与愿景陈述
+</div>
 
 ### 一. 项目概要
 
