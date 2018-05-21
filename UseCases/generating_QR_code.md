@@ -1,3 +1,4 @@
+作者：15331365
 ![](img_use_case/generate_QR_code.png)
 
 |     用例名称     | 生成每桌二维码                                  |
