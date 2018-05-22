@@ -58,11 +58,11 @@ axios.post('/restaurant', form, {
 
 注册流程图
 
-![注册流程](assets/顾客注册.png)
+![注册流程](../SSD/img/顾客注册.png)
 
 登录流程图
 
- ![登录流程](assets/顾客登录.png)
+ ![登录流程](../SSD/img/顾客登录.png)
 
 ### 示例
 

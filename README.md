@@ -19,8 +19,9 @@
 	- 7.2 Database design
 		- 7.2.1 [用户及权限系统数据库设计](ER)
 		- 7.2.2 [扫码点餐系统数据库设计](ER/ER.png)
-		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues)
+		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues?q=is%3Aissue+is%3Aclosed)
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
+	    - [API说明书](https://github.com/Baoleme/Dashboard/blob/master/documents/API%20Manual.md)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
