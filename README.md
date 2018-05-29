@@ -14,14 +14,14 @@
 7. Design(设计)
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](UI/login&register)
-		- [小程序移动端全部UI](UI/移动端全部)
-		- [PC端剩余全部UI](UI/PC端除登录注册)
+		- [小程序移动端全部UI](UI/移动端全部/README.md)
+		- [PC端剩余全部UI](UI/PC端除登录注册/README.md)
 	- 7.2 Database design
 		- 7.2.1 [用户及权限系统数据库设计](ER)
 		- 7.2.2 [扫码点餐系统数据库设计](ER/ER.png)
 		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues?q=is%3Aissue+is%3Aclosed)
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
-	    - [API说明书](https://github.com/Baoleme/Dashboard/blob/master/documents/API%20Manual.md)
+	    - [API说明书](documents/API%20Manual.md)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
