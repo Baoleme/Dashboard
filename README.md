@@ -30,7 +30,7 @@
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
 
 X1. Meet Records
-  - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
+  - [inception meeting (3/22/2018)](meet_records/KickOff_Meeting_Record(3-22-2018).md)
   - [iteration1 meeting（3/29/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration1(3-29-2018).md)
   - [initial design meeting（4/10/2018-4/11/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_initial_design(4-10-2018-4-11-2018).md)
   - [meeting record of detail design(4/17/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_detail_design(4-17-2018).md)
