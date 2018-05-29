@@ -1,5 +1,5 @@
 # 部分API使用说明
-
+作者：Andie
 ## 餐厅注册
 
 `POST /restaurant`
