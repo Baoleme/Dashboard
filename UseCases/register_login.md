@@ -64,4 +64,4 @@
 
 ##### 流程图：
 
-![注册登录流程图](img_activity/register_login_fc.png)
+![注册登录流程图](img_activity/register_login.png)
