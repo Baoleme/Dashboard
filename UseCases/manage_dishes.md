@@ -33,4 +33,4 @@
 
 ** 仅画出管理菜品基本信息的具体流程图
 
-![菜品流程图](img_activity/manageDishes_fc.png)
+![菜品流程图](img_activity/manageDishes.PNG)
