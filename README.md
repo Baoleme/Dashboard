@@ -11,6 +11,7 @@
 	- 6.3 [Domain Model（领域模型）](image/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
 	- 6.4 [State Model（状态模型）](image/订单状态图.png)
 	- 6.5 [System Sequence Diagram（功能模型）](SSD/README.md)
+	- 6.6 [Supplementary Requirements（补充需求）](documents/Supplementary_Requirements.md)
 7. Design(设计)
 	- 7.1 UI design
 		- [PC端登录注册流程UI设计](UI/login&register)
@@ -22,6 +23,7 @@
 		- 7.2.x [第三方数据评审结果](https://github.com/Baoleme/Dashboard/issues?q=is%3Aissue+is%3Aclosed)
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
+	- 7.4 [Software Architecture Document]()
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
