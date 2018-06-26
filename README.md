@@ -24,12 +24,15 @@
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
+	- 7.5 [详细设计]()
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
 		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
+	- 8.3 [BCE设计指南]()
+	- 8.4
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
@@ -48,7 +51,14 @@ X2. Tech/Work Report
   - [15331435 - 使用Travis进行持续集成（js）](https://blog.andiedie.cn/2018/04/04/%E4%BD%BF%E7%94%A8Travis%E8%BF%9B%E8%A1%8C%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
   - [15331432 - 初为产品经理的心理障碍](https://blog.csdn.net/qq_33559972/article/details/79934411)
 
+X3. Final Report
+  - [团队成员自我总结](documents/Final_Report.md#团队成员自我总结)
+  - [PSP-2.1统计表](documents/Final_Report.md#PSP-2.1统计表)
+  - [Git统计报告](documents/Final_Report.md#Git统计报告)
+  - [劳苦清单](documents/Final_Report.md#劳苦清单)
+  - 团队成员相关博客清单见X2
+
 XX. 建模练习
-  - XX.1 [奇妙清单业务文档](ModelingExercise/业务文档.md)
+  - XX.1 [奇妙清单业务文档](ModelingExercise/业务文档.md) 
   - XX.2 [建模要求](ModelingExercise/README.md#建模要求)
   - XX.3 [建模者答案与评价](ModelingExercise/README.md#建模者答案与评价)
