@@ -24,7 +24,7 @@
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
-	- 7.5 [详细设计]()
+	- 7.5 [详细设计](DetailDesign)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
