@@ -1,4 +1,4 @@
-[点餐用例详情](..UseCases/make_order.md)
+[点餐用例详情](../UseCases/make_order.md)
 
 ![bce_make_order](BCE/MO.png)
 

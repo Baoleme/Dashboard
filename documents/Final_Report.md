@@ -100,6 +100,7 @@
 
 
 ## 劳苦清单
+
 | 成员 | 一句话 |
 | :--- | ------ |
 | @zhoumumu | **Decide** when who how —— 一点都不辛苦啊~ Orz |
@@ -110,14 +111,18 @@
 
 刷一下我们的聊天记录——这个群都文(t)明(m)是些什么人？？？
 
-日常流着泪写作业  
+<日常流着泪写作业>
+
 <img src="../image/流泪.jpg" width="300" height="550" alt="流泪"/>
 
-PM日常催命  
+<PM日常催命>
+
 <img src="../image/催命.jpg" width="300" height="550" alt="催命"/>
 
-日常较真  
+<日常较真>  
+
 <img src="../image/较真1.jpg" width="300" height="550" alt="较真1"/> <img src="../image/较真2.jpg" width="300" height="550" alt="较真2"/>
 
-日常商业互吹和逗逼  
+<日常商业互吹和逗逼>
+
 <img src="../image/大佬.png" width="300" height="550" alt="大佬"/> <img src="../image/菜醒.png" width="300" height="550" alt="菜醒"/> <img src="../image/完全了解.jpg" width="270" height="65" alt="完全了解"/>
