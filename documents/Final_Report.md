@@ -242,6 +242,7 @@
 
     ![ngix](../image/Git贡献_nginx_Andiedie.jpg)
 
+
 * @办公室李主任
 
   * PC商家端 (Client-Restaurant)
@@ -250,8 +251,17 @@
 
   * Dashboard
 
-  ![Dashboard](../image/Git贡献_dashboard_shujh.png)
+    ![Dashboard](../image/Git贡献_dashboard_shujh.png)
 
+
+* @humanlee1011
+  * Dashboard
+  
+    ![dashboard](../image/Git贡献_dashboard_humanlee1011.png)
+
+  * Server
+  
+    ![test](../image/Git贡献_Server_humanlee1011.png)
 ## 劳苦清单
 
 | 成员          | 一句话                                                       |
