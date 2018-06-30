@@ -222,26 +222,46 @@
 
 * @CrystalZYP
   * Dashboard
-  
+
     ![dashboard](../image/Git贡献_dashboard_crystal.png)
 
   * Server
-  
+
     ![test](../image/Git贡献_Server_crystal.png)
 
 * @Andiedie
   * Server
-  
+
     ![server](../image/Git贡献_server_Andiedie.jpg)
 
   * API Document
-  
+
     ![api](../image/Git贡献_api_Andiedie.jpg)
 
   * Nginx Configuration
-  
+
     ![ngix](../image/Git贡献_nginx_Andiedie.jpg)
 
+
+* @办公室李主任
+
+  * PC商家端 (Client-Restaurant)
+
+    ![Client-Restaurant](../image/Git贡献_商家端_shujh.png)
+
+  * Dashboard
+
+    ![Dashboard](../image/Git贡献_dashboard_shujh.png)
+
+
+* @humanlee1011
+  * Dashboard
+  
+    ![dashboard](../image/Git贡献_dashboard_humanlee1011.png)
+
+  * Server
+  
+    ![test](../image/Git贡献_Server_humanlee1011.png)
 ## 劳苦清单
 
 | 成员          | 一句话                                                       |
