@@ -213,16 +213,34 @@
 ## Git统计报告
 
 * @MegrezZhu
-  * ![mock](../image/Git贡献_mocker_朱楚.png)
-  * ![miniprogram](../image/Git贡献_小程序_朱楚.png)
+  * Mocker
+
+    ![mock](../image/Git贡献_mocker_朱楚.png)
+  * Mini Program
+
+    ![miniprogram](../image/Git贡献_小程序_朱楚.png)
 
 * @CrystalZYP
   * Dashboard
   
-  ![dashboard](../image/Git贡献_dashboard_crystal.png)
+    ![dashboard](../image/Git贡献_dashboard_crystal.png)
+
   * Server
   
-   ![test](../image/Git贡献_Server_crystal.png)
+    ![test](../image/Git贡献_Server_crystal.png)
+
+* @Andiedie
+  * Server
+  
+    ![server](../image/Git贡献_server_Andiedie.jpg)
+
+  * API Document
+  
+    ![api](../image/Git贡献_api_Andiedie.jpg)
+
+  * Nginx Configuration
+  
+    ![ngix](../image/Git贡献_nginx_Andiedie.jpg)
 
 ## 劳苦清单
 
