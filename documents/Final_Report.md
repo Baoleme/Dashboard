@@ -250,7 +250,7 @@
 
   * Dashboard
 
-  ![Dashboard](../image/Git贡献_Dashboard_shujh.png)
+  ![Dashboard](../image/Git贡献_dashboard_shujh.png)
 
 ## 劳苦清单
 
