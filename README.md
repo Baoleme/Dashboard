@@ -32,7 +32,7 @@
 		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
 	- 8.3 [BCE设计指南](documents/BCE.md)
-	- 8.4
+	- 8.4 [容器编排](documents/8.4.md)
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
