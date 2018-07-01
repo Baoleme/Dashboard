@@ -27,7 +27,7 @@
 	- 7.5 Usecase Design
 		- 7.5.1 [点餐用例设计](DetailDesign/make_order.md)
 		- 7.5.2 [商家注册登录用例设计](DetailDesign/register_login.md)
-		- 7.5.3 [商家新建菜品用例设计](DetailDesign/create_dish.md)
+		- 7.5.3 [商家管理菜品用例设计](DetailDesign/manage_dish.md)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
