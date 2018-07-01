@@ -24,15 +24,18 @@
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
-	- 7.5 [详细设计](DetailDesign)
+	- 7.5 [Usecase Design]
+		- 7.5.1 [点餐用例设计](DetailDesign/make_order.md)
+		- 7.5.2 [商家注册登录用例设计](DetailDesign/register_login.md)
+		- 7.5.3 [商家新建菜品用例设计](DetailDesign/create_dish.md)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
 		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
-	- 8.3 [BCE设计指南](documents/BCE.md)
-	- 8.4
+	- 8.3 [逻辑架构到应用程序映射指南](documents/BCE.md)
+	- 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用]()
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
