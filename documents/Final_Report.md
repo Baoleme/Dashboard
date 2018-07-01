@@ -66,14 +66,14 @@
 
 | PSP阶段                    | 耗时(h) |
 | -------------------------- | ------- |
-| 计划                       | 16      |
+| 计划                       | 36      |
 | ·  估计任务时间            | 4       |
 | 开发                       | 58      |
 | ·  分析需求                | 24      |
 | ·  生成设计文档            | 18      |
 | ·  设计复审                | 8       |
 | ·  代码规范                | 0       |
-| ·  具体设计                | 8       |
+| ·  具体设计                | 18      |
 | ·  具体编码                | 0       |
 | ·  代码复审                | 0       |
 | ·  测试                    | 0       |
@@ -81,7 +81,7 @@
 | ·测试报告                  | 0       |
 | ·计算工作量                | 0.2     |
 | 事后总结，提出过程改进计划 | 8       |
-| **合计**                   | 83      |
+| **合计**                   | 113     |
 
 `15331365 @yxlshk`
 
@@ -212,56 +212,44 @@
 
 ## Git统计报告
 
-* @MegrezZhu
-  * Mocker
+![分工与贡献率](../image/分工与贡献率.jpg)
 
-    ![mock](../image/Git贡献_mocker_朱楚.png)
-  * Mini Program
-
-    ![miniprogram](../image/Git贡献_小程序_朱楚.png)
-
-* @CrystalZYP
-  * Dashboard
-
-    ![dashboard](../image/Git贡献_dashboard_crystal.png)
-
-  * Server
-
-    ![test](../image/Git贡献_Server_crystal.png)
-
-* @Andiedie
-  * Server
-
-    ![server](../image/Git贡献_server_Andiedie.jpg)
-
-  * API Document
-
-    ![api](../image/Git贡献_api_Andiedie.jpg)
-
-  * Nginx Configuration
-
-    ![ngix](../image/Git贡献_nginx_Andiedie.jpg)
+![制品与贡献率](../image/制品与贡献率.jpg)
 
 
-* @办公室李主任
+* @MegrezZhu (Mocker & Mini Program)
 
-  * PC商家端 (Client-Restaurant)
-
-    ![Client-Restaurant](../image/Git贡献_商家端_shujh.png)
-
-  * Dashboard
-
-    ![Dashboard](../image/Git贡献_dashboard_shujh.png)
+<img src="../image/Git贡献_mocker_朱楚.png" width="400" height="240"> <img src="../image/Git贡献_小程序_朱楚.png" width="400" height="240">
 
 
-* @humanlee1011
-  * Dashboard
-  
-    ![dashboard](../image/Git贡献_dashboard_humanlee1011.png)
+* @CrystalZYP (Dashboard & Server)
 
-  * Server
-  
-    ![test](../image/Git贡献_Server_humanlee1011.png)
+<img src="../image/Git贡献_dashboard_crystal.png" width="400" height="240"> <img src="../image/Git贡献_Server_crystal.png" width="400" height="240">
+
+
+* @Andiedie (Server & API Document & Nginx Configuration)
+
+<img src="../image/Git贡献_server_Andiedie.jpg" width="400" height="240"> <img src="../image/Git贡献_api_Andiedie.jpg" width="400" height="240">
+
+<img src="../image/Git贡献_nginx_Andiedie.jpg" width="400" height="240">
+
+
+* @办公室李主任 (Client-Restaurant & Dashboard)
+
+<img src="../image/Git贡献_商家端_shujh.png" width="400" height="240"> <img src="../image/Git贡献_dashboard_shujh.png" width="400" height="240">
+
+
+* @humanlee1011 (Dashboard & Server)
+
+<img src="../image/Git贡献_dashboard_humanlee1011.png" width="400" height="240"> <img src="../image/Git贡献_Server_humanlee1011.png" width="400" height="240">
+
+
+* @zhoumumu (Dashboard)
+
+<img src="../image/Git贡献_dashboard_周林.jpg" width="400" height="240">
+
+
+
 ## 劳苦清单
 
 | 成员          | 一句话                                                       |
@@ -278,18 +266,18 @@
 
 刷一下我们的聊天记录——这个群都文(t)明(m)是些什么人？？？
 
-日常流着泪写作业
+<日常流着泪写作业>
 
 <img src="../image/流泪.jpg" width="300" height="550" alt="流泪"/>
 
-PM日常催命
+<PM日常催命>
 
 <img src="../image/催命.jpg" width="300" height="550" alt="催命"/>
 
-日常较真
+<日常较真>
 
 <img src="../image/较真1.jpg" width="300" height="550" alt="较真1"/> <img src="../image/较真2.jpg" width="300" height="550" alt="较真2"/>
 
-日常商业互吹和逗逼
+<日常商业互吹和逗逼>
 
 <img src="../image/大佬.png" width="300" height="550" alt="大佬"/> <img src="../image/菜醒.png" width="300" height="550" alt="菜醒"/> <img src="../image/完全了解.jpg" width="270" height="65" alt="完全了解"/>

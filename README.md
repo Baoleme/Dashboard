@@ -24,7 +24,10 @@
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
-	- 7.5 [详细设计](DetailDesign)
+	- 7.5 Usecase Design
+		- 7.5.1 [点餐用例设计](DetailDesign/make_order.md)
+		- 7.5.2 [商家注册登录用例设计](DetailDesign/register_login.md)
+		- 7.5.3 [商家管理菜品用例设计](DetailDesign/manage_dish.md)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
@@ -54,7 +57,7 @@ X2. Tech/Work Report
 X3. Final Report
   - [团队成员自我总结](documents/Final_Report.md#团队成员自我总结)
   - [PSP-2.1统计表](documents/Final_Report.md#PSP-2.1统计表)
-  - [Git统计报告](documents/Final_Report.md#Git统计报告)
+  - [Git统计报告(小组分工与贡献率说明)](documents/Final_Report.md#Git统计报告)
   - [劳苦清单](documents/Final_Report.md#劳苦清单)
   - 团队成员相关博客清单见X2
 
