@@ -241,8 +241,7 @@
 
 * @humanlee1011 (Dashboard & Server)
 
-<img src="../image/Git贡献_dashboard_humanlee1011.png" width="400" height="240"> <img src="../image/Git贡献_Server_humanlee1011.png" width="400" height="24
-0">
+<img src="../image/Git贡献_dashboard_humanlee1011.png" width="400" height="240"> <img src="../image/Git贡献_Server_humanlee1011.png" width="400" height="240">
 
 
 * @zhoumumu (Dashboard)
