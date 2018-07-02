@@ -249,7 +249,6 @@
 <img src="../image/Git贡献_dashboard_周林.jpg" width="400" height="240">
 
 
-
 ## 劳苦清单
 
 | 成员          | 一句话                                                       |
@@ -261,6 +260,10 @@
 | @humanlee1011 | 需求分析，软件测试——确实是全新体验                           |
 | @CrystalZYP | 写了点文档，画了点图，做了点测试                           |
 | @Andiedie | 写了个后端                           |
+
+## 看板管理
+我们持续使用tower进行项目的管理与任务提醒，只是非专业版不能公开项目连接，[私有链接在此](https://tower.im/projects/a23a45d0ad6a49b5aca9e504d1b06512/)  
+![tower](../image/tower_final.jpg)
 
 ## 我们的日常
 
