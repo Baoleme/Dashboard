@@ -24,15 +24,18 @@
 	- 7.3 [API 设计](https://baoleme.github.io/API-document/)
 	    - [API说明书](documents/API_Manual.md)
 	- 7.4 [Software Architecture Document](documents/Software_Architecture_Document.md)
-	- 7.5 [详细设计](DetailDesign)
+	- 7.5 Usecase Design
+		- 7.5.1 [点餐用例设计](DetailDesign/make_order.md)
+		- 7.5.2 [商家注册登录用例设计](DetailDesign/register_login.md)
+		- 7.5.3 [商家管理菜品用例设计](DetailDesign/manage_dish.md)
 8. 生产规范与指南
 	- 8.1 代码规范
 		- [后端代码规范](https://github.com/Baoleme/Server/blob/master/Code%20Style.md)
 		- [餐厅前端代码规范](https://github.com/Baoleme/Client-Restaurant/blob/master/development_specification.md)
 		- [小程序端代码规范](https://github.com/Baoleme/Client-Consumer/blob/master/CODE_STYLE.md)
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
-	- 8.3 [BCE设计指南]()
-	- 8.4
+	- 8.3 [逻辑架构到应用程序映射指南(BCE)](documents/BCE.md)
+	- 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用(容器编排)](documents/8.4.md)
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
@@ -50,11 +53,12 @@ X2. Tech/Work Report
   - [15331436 - axios入坑指北](https://blog.zyuco.com/2018/04/08/axios%E5%85%A5%E5%9D%91%E6%8C%87%E5%8C%97/)
   - [15331435 - 使用Travis进行持续集成（js）](https://blog.andiedie.cn/2018/04/04/%E4%BD%BF%E7%94%A8Travis%E8%BF%9B%E8%A1%8C%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
   - [15331432 - 初为产品经理的心理障碍](https://blog.csdn.net/qq_33559972/article/details/79934411)
+  - [15331432 - 交互设计那些小纠结](https://blog.csdn.net/qq_33559972/article/details/80877316)
 
 X3. Final Report
   - [团队成员自我总结](documents/Final_Report.md#团队成员自我总结)
   - [PSP-2.1统计表](documents/Final_Report.md#PSP-2.1统计表)
-  - [Git统计报告](documents/Final_Report.md#Git统计报告)
+  - [Git统计报告(小组分工与贡献率说明)](documents/Final_Report.md#Git统计报告)
   - [劳苦清单](documents/Final_Report.md#劳苦清单)
   - 团队成员相关博客清单见X2
 
