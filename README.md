@@ -59,7 +59,7 @@ X2. Tech/Work Report
 
 X3. Final Report
   - [团队成员自我总结](documents/Final_Report.md#团队成员自我总结)
-  - [PSP-2.1统计表](documents/Final_Report.md#psp21统计表)
+  - [PSP-2.1统计表](documents/Final_Report.md#psp-21统计表)
   - [Git统计报告](documents/Final_Report.md#git统计报告)
   - [劳苦清单](documents/Final_Report.md#劳苦清单)
   - 团队成员相关博客清单见X2
