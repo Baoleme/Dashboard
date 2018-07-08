@@ -1,11 +1,12 @@
 # Dashboard
 
+0. [软件设计综合实验要求Check List](documents/check_list.md)
 1. [About（项目规划）](documents/about.md)
 2. [Team profile（团队组建）](documents/team_profile.md)
 3. [Investigation（项目前期调研）](documents/competitor_analyze.md)
 4. [Vision（项目愿景）](documents/Baoleme_Project_Proposal.md)
 5. [Product Backlog（产品特性）](documents/product_backlog.md)
-6. Requirement specification(需求规格说明书)
+6. Requirement specification(需求规格说明)
 	- 6.1 [Usecase Diagram（用例图）](UseCases/README.md#用例图)
 	- 6.2 [Use Cases（用例+活动图）](UseCases/README.md#用例文本与活动图)
 	- 6.3 [Domain Model（领域模型）](image/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png)
@@ -58,8 +59,8 @@ X2. Tech/Work Report
 
 X3. Final Report
   - [团队成员自我总结](documents/Final_Report.md#团队成员自我总结)
-  - [PSP-2.1统计表](documents/Final_Report.md#PSP-2.1统计表)
-  - [Git统计报告(小组分工与贡献率说明)](documents/Final_Report.md#Git统计报告)
+  - [PSP-2.1统计表](documents/Final_Report.md#psp21统计表)
+  - [Git统计报告](documents/Final_Report.md#git统计报告)
   - [劳苦清单](documents/Final_Report.md#劳苦清单)
   - 团队成员相关博客清单见X2
 
