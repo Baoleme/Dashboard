@@ -79,3 +79,25 @@ Artifacts:
 - 第二轮开发Backlog
 - 所有UI设计
 - 完成backlog确定的四个功能点
+
+### Iteration 4
+
+**week17-week18（7/7/2018）**
+
+The development of Iteration 3 last long, so we made a review meeting in 2018/5/25, and carried out integration and testing later.
+
+Artifacts:
+
+- 所有实现源码
+- 测试报告
+
+### Iteration 5
+
+**7/7/2018 - 7/8/2018**
+
+Bug fixing and Transition
+
+Atifacts:
+
+- 可交付制品
+- 报告和文档

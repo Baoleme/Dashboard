@@ -37,6 +37,11 @@
 	- 8.2 [REST API 设计规范](https://baoleme.github.io/API-document/)
 	- 8.3 [逻辑架构到应用程序映射指南(BCE)](documents/BCE.md)
 	- 8.4 [物理架构云上部署 dock-compose.yml 文件编写与使用(容器编排)](documents/8.4.md)
+9. 测试
+    - 9.1 [测试方案](documents/测试方案.md)
+    - 9.2 [后端API测试报告](documents/后端api测试报告.md)
+    - 9.3 [综合测试报告](documents/综合测试报告.md)
+    - 9.4 [回归测试报告](documents/回归测试报告.md)
 
 X1. Meet Records
   - [inception meeting (3/22/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
@@ -45,6 +50,8 @@ X1. Meet Records
   - [meeting record of detail design(4/17/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_detail_design(4-17-2018).md)
   - [sprint meeting(4/28/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/sprint_meeting_for_developing_round2(4-28-2018).md)
   - [iteration2 meeting(5/25/2018)](https://github.com/Baoleme/Dashboard/blob/master/meet_records/meeting_record_of_iteration2(5-25-2018).md)
+  - [*线上小会议(3/25/2018)](meet_records/3.25线上小会议.md)
+  - [*需求小会议(4/1/2018)](meet_records/4.1需求小会议.md)
 
 X2. Tech/Work Report
   - [15331365 - Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
