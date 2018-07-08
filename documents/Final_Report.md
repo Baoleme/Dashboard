@@ -265,6 +265,10 @@
 ## 看板管理
 我们持续使用tower进行项目的管理与任务提醒，只是非专业版不能公开项目连接，[私有链接在此](https://tower.im/projects/a23a45d0ad6a49b5aca9e504d1b06512/)
 ![tower](../image/tower_final.jpg)
+![tower](../image/tower_final2.jpg)
+
+看板上的共享编辑文档：
+![tower_docs](../image/tower_share_docs.jpg)
 
 ## 我们的日常
 

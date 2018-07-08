@@ -101,3 +101,5 @@ Atifacts:
 
 - 可交付制品
 - 报告和文档
+
+![tower](../image/tower_final2.jpg)
