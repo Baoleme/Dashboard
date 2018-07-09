@@ -42,6 +42,7 @@
     - 9.2 [后端API测试报告](documents/后端api测试报告.md)
     - 9.3 [综合测试报告](documents/综合测试报告.md)
     - 9.4 [回归测试报告](documents/回归测试报告.md)
+10. [产品效果演示](documents/display.md)
 
 X1. Meet Records
   - [inception meeting（3/22/2018）](https://github.com/Baoleme/Dashboard/blob/master/meet_records/KickOff_Meeting_Record(3-22-2018).md)
