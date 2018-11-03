@@ -9,12 +9,12 @@
 
 进入小程序，扫描准备好的商家二维码，可选餐点单。
 
-<img height=700 width=400 src="../image/小程序.gif"/>
+<iframe height=700 width=400 src="../image/小程序.gif"/>
 
 登录商家端，可以看到新收到的订单，并进行接单和取消等订单操作。
 
-<img height=470 width=1000 src="../image/商家端.gif"/>
+<iframe height=470 width=1000 src="../image/商家端.gif"/>
 
 商家端部分其他可用功能概览如下。可以直接进入网站体验。测试常用账号：12429@zyuco.com 密码111111
 
-<img height=470 width=1000 src="../image/商家端补充.gif"/>
+<iframe height=470 width=1000 src="../image/商家端补充.gif"/>
